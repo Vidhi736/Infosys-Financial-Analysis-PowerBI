@@ -17,22 +17,17 @@ The project combines financial statement analysis with data visualization to ide
 
 ## Tools & Skills
 
-- Power BI
-- DAX
-- Power Query
-- Microsoft Excel
-- Financial Statement Analysis
-- Data Visualization
+Power BI | DAX | Power Query | Excel | Financial Statement Analysis | Data Visualization
 
 ## Dashboard
 
 ### Executive Dashboard
 
-![Executive Dashboard](Executive_Dashboard.png)
+![Executive Dashboard](Dashboard%20Screenshot.png)
 
 ### Key Financial Insights
 
-![Key Financial Insights](Key_Financial_Insights.png)
+![Key Financial Insights](Analysis%20Screenshot.png)
 
 ## Key Financial Insights
 
